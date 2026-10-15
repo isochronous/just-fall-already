@@ -1,5 +1,7 @@
 # Just Fall Already!
 
+**This repository is archived.** This project now lives in [isochronous/ONI-Mods](https://github.com/isochronous/ONI-Mods/tree/main/mods/just-fall-already), with its full history; work and new releases continue there. The releases published here stay available.
+
 An [Oxygen Not Included](https://www.klei.com/games/oxygen-not-included) mod: a critter whose footing a door just took away falls at once, instead of standing there until it figures out it's supposed to.
 
 ## What it does
